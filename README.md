@@ -1,5 +1,5 @@
 # StarAcademy-Group1
-Graph Analysis Project.
+Group1's Project of the Star Academy summer internship.
 
 ## Table of contents
 - [API Documentation](#API-Documentation)
