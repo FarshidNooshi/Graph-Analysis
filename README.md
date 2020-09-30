@@ -38,7 +38,7 @@ npm install sweetalert2
 - Parsa Mohammadian
 - Parsa Saberi
 - Saba Ebrahimi
-- Special thanks to Danyal Esfini Farahani
+<!--- Special thanks to Danyal Esfini Farahani-->
 
 
 ## Screenshots 
